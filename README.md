@@ -14,7 +14,9 @@ conda activate pyspark_test
 
 ## About the dataset used
 
-The dataset was taken from the [ggplot2 package](https://ggplot2.tidyverse.org/). 
+The dataset was taken from the [ggplot2 package](https://ggplot2.tidyverse.org/) and I added some `NAs`. 
 
 
 Further I want to extend this guide in AWS by using [this one](https://github.com/beanumber/airlines).
+
+
