@@ -1,0 +1,10 @@
+name: pyspark_test
+channels:
+        - conda-forge
+        - defaults
+dependencies:
+        - pyspark
+        - jupyterlab
+        - notebook
+
+
