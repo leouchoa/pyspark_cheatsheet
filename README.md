@@ -3,7 +3,7 @@ My cheatsheet for `pyspark`
 
 # Create and Active the Environment
 
-For environment create and package orchestration I'm using conda. To install the environment and further activate it, please run:
+For environment creation and package orchestration I'm using conda. To install the environment and further activate it, please run:
 
 ```
 conda create -f environment.yml
