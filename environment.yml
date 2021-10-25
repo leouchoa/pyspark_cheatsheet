@@ -3,8 +3,8 @@ channels:
         - conda-forge
         - defaults
 dependencies:
-        - pyspark
-        - jupyterlab
-        - notebook
+        - pyspark=3.2.0
+        - jupyterlab=3.2.1
+        - notebook=6.4.5
 
 
