@@ -1,5 +1,5 @@
 # pyspark_cheatsheet
-My cheatsheet for `pyspark`
+A cheatsheet for `pyspark`
 
 # Create and Active the Environment
 
@@ -17,6 +17,6 @@ conda activate pyspark_test
 The dataset was taken from the [ggplot2 package](https://ggplot2.tidyverse.org/) and I added some `NAs`. 
 
 
-Further I want to extend this guide in AWS by using [this really big dataset](https://github.com/beanumber/airlines) for show how to setup clusters.
+Further I want to extend this guide in AWS by using [this really big dataset](https://github.com/beanumber/airlines) to show how to setup clusters.
 
 
